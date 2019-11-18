@@ -1,1 +1,15 @@
-{"githubUsername":"ZCCtt","blogTitle":"ZCCtt","blogDescribe":"欢迎来到ZCCtt的个人博客。","htmlTitle":"ZCCtt的博客","fontColor":"#ffffff","useBackgroundImage":true,"backgroundColorLeft":"#1861AA","backgroundColorRight":"#2D0909","audioUrl":"https://m10.music.126.net/20191118090126/a2a10e4b62ca78bbfe0ae8198d7be94e/yyaac/510f/050c/020f/fe474592f22f7061cf595ec8acc94b70.m4a","mini":false,"webSites":[{"name":"Google","url":"https://www.google.com"}],"audioAutoPlay":true}
+{
+    "githubUsername": "ZCCtt",
+    "blogTitle": "ZCCtt",
+    "blogDescribe": "欢迎来到ZCCtt的个人博客。",
+    "htmlTitle": "ZCCtt的博客",
+    "fontColor": "#ffffff",
+    "useBackgroundImage": false,
+    "backgroundColorLeft": "#2690F9",
+    "backgroundColorRight": "#FC2D2D",
+    "audioUrl": "https://m10.music.126.net/20191118090126/a2a10e4b62ca78bbfe0ae8198d7be94e/yyaac/510f/050c/020f/fe474592f22f7061cf595ec8acc94b70.m4a",
+    "mini": false,
+    "webSites":[
+        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
+    ]
+}
